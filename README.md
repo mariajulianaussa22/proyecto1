@@ -12,6 +12,7 @@ La información requerida para los tanques es: volumen y presión. Dependiendo d
 * Tanque a presión: diámetro y altura.
 
 Haga un programa que establezca la herencia, declare objetos, asigne información e imprima la información.
-
+***
 ## Integrantes: 
 *María Juliana Ussa Contreras, Jeimy Paola Mena Arboleda, Sara Paola Cruz Muriel, Natalia Rodríguez*
+***
